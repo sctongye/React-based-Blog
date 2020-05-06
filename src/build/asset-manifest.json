@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4267c396.chunk.css",
+    "main.js": "/static/js/main.e8ebe86d.chunk.js",
+    "main.js.map": "/static/js/main.e8ebe86d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.aecaeffa.js",
+    "runtime-main.js.map": "/static/js/runtime-main.aecaeffa.js.map",
+    "static/js/2.c7764897.chunk.js": "/static/js/2.c7764897.chunk.js",
+    "static/js/2.c7764897.chunk.js.map": "/static/js/2.c7764897.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.f63b091602d25cfb8915340bd502f5ea.js": "/precache-manifest.f63b091602d25cfb8915340bd502f5ea.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.4267c396.chunk.css.map": "/static/css/main.4267c396.chunk.css.map",
+    "static/js/2.c7764897.chunk.js.LICENSE.txt": "/static/js/2.c7764897.chunk.js.LICENSE.txt",
+    "static/media/express.svg": "/static/media/express.c6bab64b.svg",
+    "static/media/mongodb.svg": "/static/media/mongodb.2985235d.svg",
+    "static/media/nginx-1.svg": "/static/media/nginx-1.ec56c8e9.svg",
+    "static/media/raspberry-pi.svg": "/static/media/raspberry-pi.3da67b76.svg",
+    "static/media/react.svg": "/static/media/react.4009eef3.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aecaeffa.js",
+    "static/js/2.c7764897.chunk.js",
+    "static/css/main.4267c396.chunk.css",
+    "static/js/main.e8ebe86d.chunk.js"
+  ]
+}
